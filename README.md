@@ -57,7 +57,7 @@ This project includes a user-friendly web app for:
 From the project root, run:
 
 ```bash
-streamlit run app.py
+streamlit run Overview.py
 ```
 
 Then open the local URL shown in the terminal.
